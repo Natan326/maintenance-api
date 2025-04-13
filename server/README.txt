@@ -1,0 +1,1 @@
+Backend Node.js server with MongoDB connection, routes, and auth.
